@@ -1,0 +1,514 @@
+fileFormatVersion: 2
+guid: 66ac5b39d74656a489556ebb0fe7f1b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8632793072783466674
+    second: attack down_0
+  - first:
+      213: 6695377083016987055
+    second: attack down_1
+  - first:
+      213: -1648576683614632308
+    second: attack down_2
+  - first:
+      213: -7432412170526251585
+    second: attack down_3
+  - first:
+      213: -4316400386122134497
+    second: attack down_4
+  - first:
+      213: -3605734729833291275
+    second: attack down_5
+  - first:
+      213: -3675417462870268852
+    second: attack down_6
+  - first:
+      213: -5446205985386393305
+    second: attack down_7
+  - first:
+      213: 706111494918003643
+    second: attack down_8
+  - first:
+      213: -2178624486900069365
+    second: attack down_9
+  - first:
+      213: 4560816017884667575
+    second: attack down_10
+  - first:
+      213: 8236417531785833972
+    second: attack down_11
+  - first:
+      213: 5388401563320048263
+    second: attack down_12
+  - first:
+      213: -7426789669208558702
+    second: attack down_13
+  - first:
+      213: -3166019925670392262
+    second: attack down_14
+  - first:
+      213: -5956887434166466566
+    second: attack down_15
+  - first:
+      213: -8315855880137666190
+    second: attack down_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: attack down_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 3617
+        width: 430
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fd9455078223880800000000000000
+      internalID: -8632793072783466674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack down_1
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 3617
+        width: 428
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1c48ebbf1caec50800000000000000
+      internalID: 6695377083016987055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack down_2
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 3617
+        width: 426
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c868824ad341f19e0800000000000000
+      internalID: -1648576683614632308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack down_3
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 3617
+        width: 432
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb52e7f6284cad890800000000000000
+      internalID: -7432412170526251585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack down_4
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3139
+        width: 436
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cc4d4d7b01914c0800000000000000
+      internalID: -4316400386122134497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack down_5
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 3139
+        width: 440
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f16ff10e5bd5fdc0800000000000000
+      internalID: -3605734729833291275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack down_6
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 3139
+        width: 479
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44a95c6a4b4efcc0800000000000000
+      internalID: -3675417462870268852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack down_7
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 3139
+        width: 481
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7211073f2803b64b0800000000000000
+      internalID: -5446205985386393305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack down_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2661
+        width: 483
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb586ad9ac9cc900800000000000000
+      internalID: 706111494918003643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack down_9
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 2661
+        width: 481
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c8a5f6298f3c1e0800000000000000
+      internalID: -2178624486900069365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack down_10
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 2661
+        width: 483
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be5de701064b4f30800000000000000
+      internalID: 4560816017884667575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack down_11
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 2661
+        width: 481
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fde4e35b12ad4270800000000000000
+      internalID: 8236417531785833972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack down_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2183
+        width: 483
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ad9d04ca277ca40800000000000000
+      internalID: 5388401563320048263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack down_13
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 2183
+        width: 482
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2937849052ebee890800000000000000
+      internalID: -7426789669208558702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack down_14
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 2183
+        width: 483
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e8b92e6a90014d0800000000000000
+      internalID: -3166019925670392262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack down_15
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 2183
+        width: 481
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af705878072e45da0800000000000000
+      internalID: -5956887434166466566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack down_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1705
+        width: 483
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2711d05e225289c80800000000000000
+      internalID: -8315855880137666190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
