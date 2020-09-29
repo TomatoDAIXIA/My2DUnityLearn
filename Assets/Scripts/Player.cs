@@ -17,7 +17,7 @@ public class Player : Character
     private SpellBook spellBook;
 
     /// <summary>
-    /// 法术出口点
+    /// 法术出口点 注释修改
     /// </summary>
     [SerializeField]
     private Transform[] exitList;
